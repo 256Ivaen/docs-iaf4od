@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-cnuco7.lawfordhomedesign.com/sitemap.xml
